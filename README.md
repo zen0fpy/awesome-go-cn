@@ -83,6 +83,7 @@ _用于构建标准或基础命令行应用的库_
 
 * [argv](https://github.com/cosiner/argv) - 用于分隔命令行字符串并将其作为参数的 Go 语言库，使用 bash 的语法
 * [cli](https://github.com/mkideal/cli) - 功能强大，使用简单的命令行软件包，基于Golang tag
+* [cli](https://github.com/urfave/cli) - 功能非常强大
 * [cli-init](https://github.com/tcnksm/gcli) - 提供一种简单、易上手的方式 来使用 Go 语言编写命令行程序
 * [climax](http://github.com/tucnak/climax) - 一个更为人性化的命令行工具，继承了 Go command 的精神
 * [cobra](https://github.com/spf13/cobra) - 用于现代 Go 语言命令行交互的工具
